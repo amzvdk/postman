@@ -1,4 +1,4 @@
-#  🔗 REST and SOAP API testing via Postman 
+#  🧪🚀 REST and SOAP API testing via Postman 
 
 1) I've thoroughly examined all the functions offered by the https://petstore.swagger.io/ API using Postman, and I've organized these tests into dedicated collections:
  <ul>
